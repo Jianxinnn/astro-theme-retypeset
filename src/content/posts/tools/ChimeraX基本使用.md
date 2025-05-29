@@ -1,7 +1,8 @@
 ---
 title: ChimeraX 基本使用
 published: 2025-05-29
-tagsupdated: 2025-05-29
+updated: 2025-05-29
+tags:
   - Protein
 toc: true
 lang: zh
