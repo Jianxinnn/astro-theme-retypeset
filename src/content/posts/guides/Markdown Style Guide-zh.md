@@ -8,6 +8,7 @@ pin: 98
 toc: false
 lang: zh
 abbrlink: markdown-style-guide
+draft: true
 ---
 
 以下是一些基本的 Markdown 语法示例，及其在 Retypeset 主题中的样式效果。

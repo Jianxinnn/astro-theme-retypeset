@@ -1,9 +1,9 @@
 ---
 title: ChimeraX 基本使用
 published: 2025-05-29
-tags:
+tagsupdated: 2025-05-29:
   - Protein
-toc: false
+toc: true
 lang: zh
 draft: false
 description: chimerX1.9 简易实用命令
