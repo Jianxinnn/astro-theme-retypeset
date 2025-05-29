@@ -6,6 +6,7 @@ tags:
 toc: true
 lang: zh
 abbrlink: birth-of-retypeset
+draft: true
 ---
 
 Retypeset 是一款基于 Astro 框架的静态博客主题，中文名为重新编排。作为一名编程小白，我花三个月时间开发了这款主题，感受颇多。这篇文章，就来分享一下 Retypeset 诞生的故事。
