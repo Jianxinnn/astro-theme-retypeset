@@ -5,6 +5,7 @@ tags:
   - Лу Синь
   - Современная литература
 lang: ru
+draft: true
 abbrlink: my-native-heath
 ---
 

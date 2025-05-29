@@ -1,5 +1,8 @@
 ---
 lang: ja
 ---
+I'm Jianxin, a second-year PhD student at East China Normal University.
 
-Retypesetは、日本語では「再組版」と呼ばれる、[Astro](https://astro.build/) フレームワークをベースにした静的ブログテーマです。[活版印字](https://astro-theme-typography.vercel.app/) からデザインのインスピレーションを得て、新しい視覚的な規範を確立し、すべてのページのレイアウトを再構成することで、紙の書籍のような読書体験を提供し、版面の美しさを蘇らせます。見るものすべてが細部にこだわり、限られたスペースの中に優雅さを表現しています。
+My research area is AI4S (Artificial Intelligence for Science), specifically focusing on protein design and engineering. In addition to this, I also maintain a strong interest in the field of Natural Language Processing (NLP) and explore ways to integrate it with my research.
+
+In my leisure time, I am an avid supporter of Liverpool Football Club, often cheering them on passionately. I also enjoy unwinding with CS, LOL, although my gaming skills might need some improvement.

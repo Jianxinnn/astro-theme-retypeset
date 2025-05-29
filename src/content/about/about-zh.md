@@ -2,4 +2,8 @@
 lang: zh
 ---
 
-Retypeset 是一款基于 [Astro](https://astro.build/) 框架的静态博客主题，中文名为重新编排。本主题以 [活版印字](https://astro-theme-typography.vercel.app/) 为设计灵感，通过建立全新的视觉规范，对所有页面进行重新编排，打造纸质书页般的阅读体验，再现版式之美。所见皆为细节，方寸尽显优雅。
+I'm Jianxin, a second-year PhD student at East China Normal University.
+
+My research area is AI4S (Artificial Intelligence for Science), specifically focusing on protein design and engineering. In addition to this, I also maintain a strong interest in the field of Natural Language Processing (NLP) and explore ways to integrate it with my research.
+
+In my leisure time, I am an avid supporter of Liverpool Football Club, often cheering them on passionately. I also enjoy unwinding with CS, LOL, although my gaming skills might need some improvement.

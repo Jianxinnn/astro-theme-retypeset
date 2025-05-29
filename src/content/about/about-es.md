@@ -2,4 +2,8 @@
 lang: es
 ---
 
-Retypeset es un tema de blog estático basado en el framework [Astro](https://astro.build/). Inspirado por [Typography](https://astro-theme-typography.vercel.app/), Retypeset establece un nuevo estándar visual y reimagina el diseño de todas las páginas, creando una experiencia de lectura similar a la de los libros impresos, reviviendo la belleza de la tipografía. Detalles en cada mirada, elegancia en cada espacio.
+I'm Jianxin, a second-year PhD student at East China Normal University.
+
+My research area is AI4S (Artificial Intelligence for Science), specifically focusing on protein design and engineering. In addition to this, I also maintain a strong interest in the field of Natural Language Processing (NLP) and explore ways to integrate it with my research.
+
+In my leisure time, I am an avid supporter of Liverpool Football Club, often cheering them on passionately. I also enjoy unwinding with CS, LOL, although my gaming skills might need some improvement.
