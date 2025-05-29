@@ -3,7 +3,7 @@ title: Retypeset 博客主题诞生记
 published: 2025-04-04
 tags:
   - 博客主题
-toc: false
+toc: true
 lang: zh
 abbrlink: birth-of-retypeset
 ---
