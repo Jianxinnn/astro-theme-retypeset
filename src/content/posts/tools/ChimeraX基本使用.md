@@ -3,7 +3,7 @@ title: ChimeraX 基本使用
 published: 2025-05-29
 tags:
   - 蛋白质
-toc: true
+toc: false
 lang: zh
 draft: false
 description: chimerX1.9 简易实用命令
