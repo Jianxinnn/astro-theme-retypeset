@@ -34,7 +34,7 @@ export const themeConfig: ThemeConfig = {
       // used for post text
       secondary: 'oklch(40% 0.005 298)',
       // background color
-      background: 'oklch(96% 0.005 298)',
+      background: 'oklch(98% 0.0099 298)',
     },
     dark: {
       // primary color
@@ -42,7 +42,7 @@ export const themeConfig: ThemeConfig = {
       // secondary color
       secondary: 'oklch(77% 0.005 298)',
       // background color
-      background: 'oklch(98% 0.0099 209.65)',
+      background: 'oklch(22% 0.005 298)',
     },
   },
   // COLOR SETTINGS >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> END

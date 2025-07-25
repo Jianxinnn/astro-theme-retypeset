@@ -17,9 +17,11 @@ description: chimerX1.9 简易实用命令
     
     同时对齐：`matchmaker #1-3 to #4` 
     
-- 结合界面残基识别
+- 结合界面残基识别(相互作用分析)
     
     选择蛋白，随后计算界面残基：`sel #1` → `interface`
+
+    > 在菜单栏点击“Select > User-Defined Selectors > ligand sel”选择我们之前定义的配体组，然后点击“Tools > Structure Analysis > H-bonds”；在弹出的“H-Bonds”面板中，确认“Limit by Selection”被勾选，并且下拉菜单设置为“With At Least One End Selected”然后点击“OK”进行分析；
     
 - 选择残基 - 标注 **label**
     
@@ -38,3 +40,14 @@ description: chimerX1.9 简易实用命令
 - 绘图风格
     - 动画扁平风格 `lighting flat`
     - 标准风格 `lighting sample`
+
+- 选择接触残基
+    在菜单栏点击“Select > Zone/Contacts，Select的下拉菜单选择“residues”，勾选“< 5.000 Å from the currently selected atoms”选项，然后“OK”确认
+
+    Command：`select sel :<5` 
+
+- 显示 surface
+    `Actions→Surface→mesh`
+
+- 透明度设置
+    command: `transparency 50`  # 设置透明度50%
